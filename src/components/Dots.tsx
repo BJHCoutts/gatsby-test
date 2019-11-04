@@ -34,4 +34,7 @@ const Dots = () => {
     </React.Fragment>
   )
 }
+
+// this is a test
+
 export default Dots
